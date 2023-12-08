@@ -1,4 +1,5 @@
 Flask
+gunicorn
 SQLAlchemy
 Bcrypt
 flask_login
